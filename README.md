@@ -32,3 +32,10 @@ python Gridworld/run_gridworld.py
 # 运行MDPToolbox实现
 python mdptoolbox/gridworld_mdptoolbox.py
 ```
+
+# 参考文档
+
+（1）DQN：https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
+（2）TorchRL：https://pytorch.org/tutorials/intermediate/reinforcement_ppo.html
+（3）DDQN：https://pytorch.org/tutorials/intermediate/mario_rl_tutorial.html
+（4）TorchRL2: https://pytorch.org/tutorials/advanced/pendulum.html
